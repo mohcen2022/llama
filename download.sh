@@ -1,7 +1,7 @@
 # Copyright (c) Meta Platforms, Inc. and affiliates.
 # This software may be used and distributed according to the terms of the GNU General Public License version 3.
 
-PRESIGNED_URL=""             # replace with presigned url from email
+PRESIGNED_URL="https://dobf1k6cxlizq.cloudfront.net/*?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kb2JmMWs2Y3hsaXpxLmNsb3VkZnJvbnQubmV0LyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODEzMTkyNDV9fX1dfQ__&Signature=CA9WHQJah-aPrXKbwo3ozGpqqtSeb0dp19RLJc7h3NZjPT~e9CubH4R~wdET3ya7ghTfY7LlYKlYZy35-DxThickLQTNda0jLrGx0mBKOHp~Z4OoNBlmh7mocibyc9Lk0g9UYOISPRFMYfG5M4zJPVizjYLQCFDl9i4Wwi9mdWFyZpA4yh0lBIO0MEDK9Ay6j-T-chCPG6TDG30JCcqJ7gdF3FpO5bzMuOjrfyDuGKH5bXESJ1eycqBnvnIb1XN6yeuNHLIXhYSv196g6pj9LOYPmZnuoC3m4uJg8pXkFtFCPI7BixCVTWlmHPlakH3Y0J7Bb0IDRrdkUWvDYbfSEA__&Key-Pair-Id=K231VYXPC1TA1R"             # replace with presigned url from email
 MODEL_SIZE="7B,13B,30B,65B"  # edit this list with the model sizes you wish to download
 TARGET_FOLDER=""             # where all files should end up
 
